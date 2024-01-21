@@ -86,7 +86,7 @@ Headless CMS, a modern content management system architecture, separates content
 
 ### Contentful alternative
 
-[Strapi](https://strapi.io/) - Strapi enables rapid app development, allowing users to build their backend in minutes instead of weeks, offering easily customizable content APIs for seamless integration with modern tech stacks.
+- [Strapi](https://strapi.io/) - Strapi enables rapid app development, allowing users to build their backend in minutes instead of weeks, offering easily customizable content APIs for seamless integration with modern tech stacks.
 
 
 
